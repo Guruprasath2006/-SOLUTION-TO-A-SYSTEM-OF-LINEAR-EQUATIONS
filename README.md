@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```python
 #Program to find the solution for the given linear equations.
-#Developed by: SUDHARSANAN U
-#RegisterNumber: 212224230276
+#Developed by: GURU PRASATH KM
+#RegisterNumber: 212224230079
 import numpy as np
 
 A = np.array([[1, -3], [3, 1]])  # Coefficient matrix
